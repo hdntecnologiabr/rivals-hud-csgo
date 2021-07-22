@@ -35,6 +35,11 @@ code {
   height: 100%;
 }
 
+
+.logo_logitech_indicator> svg{
+      max-height: 20px;
+}
+
 :root {
   --main-panel-color: rgba(12, 15, 18, 0.85);
   --sub-panel-color: rgba(0, 0, 0, 0.83);
@@ -46,8 +51,8 @@ code {
   --dev-purple: rgba(200, 0, 255, 1);
   --color-t: #c19511;
   --color-ct: #5788a8;
-  --color-new-t: #f0c941;
-  --color-new-ct: #5ab8f4;
+  --color-new-t: #e481e1;
+  --color-new-ct: #5cc2e3;
   --color-bomb: #f22222;
   --color-defuse: #2222f2;
 }

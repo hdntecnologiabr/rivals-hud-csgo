@@ -1,7 +1,7 @@
 {
-    "name":"Lexogrine HUD",
+    "name":"HDNRivals HUD",
     "version":"2.0.1",
-    "author":"Lexogrine",
+    "author":"HDN",
     "legacy": false,
     "radar": true,
     "killfeed": true,
